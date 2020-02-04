@@ -1,0 +1,15 @@
+.navbar{
+	position : absolute;
+	overflow: fixed;
+	font-size: 20px;
+	left: 0;
+}
+
+form{
+	margin: 20px;
+	font-size: 20px;
+}
+
+.tag1{
+	align: center;
+}

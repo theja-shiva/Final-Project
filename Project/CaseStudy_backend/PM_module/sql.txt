@@ -1,0 +1,18 @@
+select * from user2;
+
+CREATE SEQUENCE id_seq
+start with 1
+increment by 1 
+minvalue 0
+maxvalue 100
+cycle;
+
+create table user3(
+id number,
+Empname varchar2(30),
+designation varchar2(30),
+email varchar2(30),
+request varchar2(60)
+);
+
+select * from user3;
